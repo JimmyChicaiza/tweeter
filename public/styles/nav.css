@@ -1,0 +1,29 @@
+/*
+*FIX TOP
+*/
+
+#nav-bar {
+
+    background-color: #00a087;
+    height: 80px;
+    width: 100%;
+    margin-left: 2px;
+    margin-right: 2px;
+  
+}
+
+#nav-bar .logo {
+    margin-left: 20px;
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+
+#nav-bar .header {
+    margin-left: 10px;
+    color:  #e8fdff;
+    font-size: 7ex;
+    float: left;  
+    
+}
+
